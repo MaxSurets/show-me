@@ -12,3 +12,7 @@ def email(num):
 @cli.command()
 def weather():
     print("weather toggled")
+
+@cli.command()
+def calendar():
+    print('calendar toggled')
