@@ -9,6 +9,6 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        email=myemail:cli
+        showme=showme:cli
     ''',
 )
